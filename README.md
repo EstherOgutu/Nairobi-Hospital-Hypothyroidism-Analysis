@@ -47,7 +47,7 @@ Heatmap showing the correlation of all the variables:
 
 ## Feature Importance in Ada Boosting Trees
 
-![Ada Boosting Trees Feature Importance](Ada Boost Feature Importance.png)
+![Ada Boosting Trees Feature Importance](https://github.com/EstherOgutu/Nairobi-Hospital-Hypothyroidism-Analysis/blob/main/Ada%20Boost%20Feature%20Importance.png)
 
 ## Feature Importance in Gradient Boosting Trees
 
