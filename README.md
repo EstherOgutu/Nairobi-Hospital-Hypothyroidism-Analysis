@@ -22,3 +22,33 @@ For this project, I will perform the following actions:
 2. SVM: Apply Polynomial, linear and rbf kernel function to build your SVM model and then evaluate their performance and pick the kernel that performs the best. Remember to tune your parameters to improve the performance of your model. To make your life easier, make sure to visualize the models you've created. Use any two features to build the models for this step
   
 6.Challenge your solution by providing insights on how you can make improvements in model improvement.
+
+# Exploratory Data Analysis
+
+## Univariate
+
+The image below shows the univariate analysis of various variables:
+
+![Univariate](download.png)
+
+## Bivariate
+
+The images below shows the bivariare analysis of various variables:
+
+![Bivariate](download (1).png)
+
+Heatmap showing the correlation of all the variables:
+
+![heatmap](download (2).png)
+
+## Feature Importance in Random Forest
+
+![Random Forest Feature Importance](Random Forest Feature Importance.png)
+
+## Feature Importance in Ada Boosting Trees
+
+![Ada Boosting Trees Feature Importance](Ada Boost Feature Importance.png)
+
+## Feature Importance in Gradient Boosting Trees
+
+![Gradient Boosting Trees Feature Importance](Feature Importance for gradient boost.png)
