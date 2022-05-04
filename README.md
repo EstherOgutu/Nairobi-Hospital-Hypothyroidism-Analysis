@@ -35,7 +35,7 @@ The image below shows the univariate analysis of various variables:
 
 The images below shows the bivariare analysis of various variables:
 
-![Bivariate](download(1).png)
+![Bivariate](https://github.com/EstherOgutu/Nairobi-Hospital-Hypothyroidism-Analysis/blob/main/download%20(1).png)
 
 Heatmap showing the correlation of all the variables:
 
