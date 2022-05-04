@@ -39,7 +39,7 @@ The images below shows the bivariare analysis of various variables:
 
 Heatmap showing the correlation of all the variables:
 
-![heatmap](download(2).png)
+![heatmap](https://github.com/EstherOgutu/Nairobi-Hospital-Hypothyroidism-Analysis/blob/main/download%20(2).png)
 
 ## Feature Importance in Random Forest
 
