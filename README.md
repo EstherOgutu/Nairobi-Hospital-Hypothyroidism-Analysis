@@ -43,7 +43,7 @@ Heatmap showing the correlation of all the variables:
 
 ## Feature Importance in Random Forest
 
-![Random Forest Feature Importance](Random Forest Feature Importance.png)
+![Random Forest Feature Importance](https://github.com/EstherOgutu/Nairobi-Hospital-Hypothyroidism-Analysis/blob/main/Random%20Forest%20Feature%20Importance.png)
 
 ## Feature Importance in Ada Boosting Trees
 
