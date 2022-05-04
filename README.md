@@ -51,4 +51,4 @@ Heatmap showing the correlation of all the variables:
 
 ## Feature Importance in Gradient Boosting Trees
 
-![Gradient Boosting Trees Feature Importance](Feature Importance for gradient boost.png)
+![Gradient Boosting Trees Feature Importance](https://github.com/EstherOgutu/Nairobi-Hospital-Hypothyroidism-Analysis/blob/main/Feature%20Importance%20for%20gradient%20boost.png)
